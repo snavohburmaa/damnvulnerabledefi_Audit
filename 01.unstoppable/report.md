@@ -1,17 +1,10 @@
----
-title: Damn Vulnerable DeFi, Unstoppable Security Review
-author: Khant Wai Yan Aung (SnavOhBurmaa)
-date: June 16, 2026
----
-
-\maketitle
-
 # Damn Vulnerable DeFi, Unstoppable Security Review
 
 Prepared by: SnavOhBurmaa
 
 Lead Auditors: Khant Wai Yan Aung (SnavOhBurmaa)
 
+date: June 16, 2026
 # Table of contents
 <details>
 
